@@ -92,30 +92,10 @@ SmartShop AI is a production-ready, full-stack e-commerce platform built with a 
 - Trending products: Popular items across user segments  
 - Personalized suggestions: User behavior-driven recommendations  
 
----
-
-## 🛠️ Technology Stack Summary
-
-| Component     | Development Environment | Production Scaling       |
-|---------------|------------------------|---------------------------|
-| Frontend      | Next.js with hot reload | S3 + CloudFront CDN      |
-| Backend       | Kubernetes + Docker    | EKS + ECR registry        |
-| Database      | PostgreSQL containers  | RDS PostgreSQL            |
-| Search        | OpenSearch containers  | Amazon OpenSearch Service |
-| Cache         | Redis containers       | ElastiCache Redis         |
-| Storage       | Local file system      | S3 + KMS encryption       |
-| Monitoring    | Kubernetes logs        | CloudWatch + X-Ray        |
-| ML/AI         | Mock data/local models | SageMaker endpoints       |
-| Orchestration | Minikube/k3s           | Amazon EKS                |
-
----
-
-## 💡 Key Takeaways
 
 SmartShop AI demonstrates mastery of modern software architecture, combining:
 
 ✅ Full-stack development with React/Next.js and microservices  
-✅ Cloud-native design with Docker and Kubernetes  
 ✅ Production scalability with enterprise-grade patterns  
 ✅ Cost optimization with flexible deployment options  
 ✅ AI integration with SageMaker for intelligent features  
